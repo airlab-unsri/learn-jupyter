@@ -1,6 +1,6 @@
 # Learn Jupyter
 
-This repository contains notebooks to getting started and familiar with Jupyter Notebooks.
+This repository contains notebooks to getting started and familiar with [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/index.html).
 
 ## Prerequisites
 
